@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/alef-probation.iml" filepath="$PROJECT_DIR$/.idea/alef-probation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../greenatom_probation/.idea/gp.iml" filepath="$PROJECT_DIR$/../greenatom_probation/.idea/gp.iml" />
+    </modules>
+  </component>
+</project>
